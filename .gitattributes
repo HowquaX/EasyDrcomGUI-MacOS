@@ -15,5 +15,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.h linguist-language=Object-C
-*.m linguist-language=Object-C
+*.h linguist-language=objective-c
+*.m linguist-language=objective-c
+*.mm linguist-language=objective-c
